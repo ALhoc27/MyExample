@@ -32,7 +32,6 @@ public class Index {
         for (int el:rezArray) {
             System.out.print(" " + el);
         };
-
     }
 }
 
