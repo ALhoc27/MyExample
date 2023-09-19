@@ -13,5 +13,6 @@ class IndexTest {
         int[] result = Index.index(inArray);
         int[] expected = {0, 1, 9, 9, 25, 49, 100, 225, 289, 400};
         assertThat(Arrays.equals(result, expected)).isTrue();
+
     }
 }
