@@ -11,10 +11,6 @@ public class Index {
         int i = 0;
         j = resj;
             while (i != j || inArray[i] < 0) {
-//                if (inArray[i] >= 0) {
-//                    arraycopy(inArray, inArray.length-resj, result, 0, resj);
-//                    return result;
-//                }
                 if (abs(inArray[i]) >= inArray[j]) {
                     result[resj--] = inArray[i] * inArray[i];
                     i++;

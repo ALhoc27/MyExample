@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="378f885c-22fe-4a56-9b3f-98b7cdff5e39" name="Changes" comment="first commit" />
+    <list default="true" id="378f885c-22fe-4a56-9b3f-98b7cdff5e39" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/src/index/Index.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/index/Index.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -27,11 +29,17 @@
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ALhoc27"
+  }
+}]]></component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="371fe6da-7dda-4019-b754-a9947d202be0" />
-        <option name="url" value="git@github.com:ALhoc27/Example" />
+        <option name="url" value="git@github.com:ALhoc27/MyExample" />
       </UrlAndAccount>
     </option>
   </component>
@@ -154,7 +162,7 @@
       <workItem from="1694776182565" duration="1536000" />
       <workItem from="1695114163863" duration="11678000" />
       <workItem from="1695133092861" duration="1804000" />
-      <workItem from="1695134933111" duration="1112000" />
+      <workItem from="1695134933111" duration="1468000" />
     </task>
     <task id="LOCAL-00001" summary=".">
       <option name="closed" value="true" />
@@ -212,7 +220,15 @@
       <option name="project" value="LOCAL" />
       <updated>1695138396271</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1695138603357</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1695138603357</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
