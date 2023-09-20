@@ -1,8 +1,8 @@
-package index;
-
+import index.Index;
 import org.junit.jupiter.api.Test;
 import java.util.Arrays;
-import static org.junit.Assert.assertThat;
+
+import static org.assertj.core.api.Assertions.assertThat;
 
 
 class IndexTest {
