@@ -31,3 +31,6 @@ bin/
 /.idea/checkstyle-idea.xml
 /.idea/modules.xml
 /MyExample.iml
+/target/classes/index/Index.class
+/target/test-classes/IndexTest.class
+/target/classes/TestPeopleIQ/MyTestPeopleIQ.class
