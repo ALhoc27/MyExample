@@ -31,6 +31,5 @@ public class MyTestPeopleIQ {
         MyTestPeopleIQ chel1 = new MyTestPeopleIQ(23, "Stas");
         MyTestPeopleIQ chel2 = new MyTestPeopleIQ(34, "Miha");
 
-       // MyTestPeopleIQ.compareTo()
     }
 }
