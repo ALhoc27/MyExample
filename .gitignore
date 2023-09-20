@@ -34,3 +34,4 @@ bin/
 /target/classes/index/Index.class
 /target/test-classes/IndexTest.class
 /target/classes/TestPeopleIQ/MyTestPeopleIQ.class
+/.idea/
