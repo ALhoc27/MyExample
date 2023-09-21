@@ -1,5 +1,3 @@
-package TestPeopleIQ;
-
 public class MyTestPeopleIQ {
     private int iQPeople;
     private String name;
