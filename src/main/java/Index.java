@@ -2,6 +2,7 @@ import static java.lang.Math.abs;
 import static java.lang.System.arraycopy;
 
 public class Index {
+    int age = 1;
 
     public static int[] index (int[] inArray) {
         int[] result = new int[inArray.length];
